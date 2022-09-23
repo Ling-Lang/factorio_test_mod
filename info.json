@@ -1,5 +1,5 @@
 {
-"name": "basicmod_0.0.1",
+"name": "basicmod",
 "version": "0.0.1",
 "title": "Test Mod",
 "author": "DylanDerEchte",
@@ -7,5 +7,4 @@
 "contact": "Discord: DylanDerZweite#6352",
 "homepage": "www.dylanderechte.com",
 "description": "A small test_mod"
-
 }
