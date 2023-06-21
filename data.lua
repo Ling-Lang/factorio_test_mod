@@ -1,3 +1,3 @@
 
 require("prototypes.test_armor")
-require("prototypes.rails")
+require("prototypes.electric_rail")
